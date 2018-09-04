@@ -5,7 +5,7 @@ version: 1.0.0
 keywords:
   - docker-config-secret
   - kubernetes
-home: https://github.com/stakater/chart-docker-config-secret
+home: https://github.com/stakater-charts/docker-config-secret
 maintainers:
 - name: Stakater
   email: stakater@aurorasolutions.io
